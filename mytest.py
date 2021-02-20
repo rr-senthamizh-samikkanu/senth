@@ -1,3 +1,5 @@
 #!/usr/bin/python 
 
-print('Test Script')
+print('Test Script Updated in dev')
+
+print('Cool Yo')
