@@ -2,4 +2,6 @@
 
 print('Test Script Updated in dev')
 
-print('Cool Yo')
+print('Yo, really Coolll')
+
+print('Got it man')
